@@ -12,3 +12,7 @@ Curso em Vídeo
 Digital One
 [Link Escola](https://digitalinnovation.one/)
 1. [Aulas](/JavaScript/DigitalOne_JavaScript)
+
+CFBCursos
+[Link Youtube](https://www.youtube.com/playlist?list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC)
+1. [Aulas](/JavaScript/CFBCursos)
