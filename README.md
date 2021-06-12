@@ -8,6 +8,6 @@
 2. [Exercícios](/Java/CursoEmVideo/Tarefas)
 
 ### JavaScript
+###Digital One
 [Link Escola](https://digitalinnovation.one/)
-1. [Aulas](/JavaScript/CursoEmVideo/Aulas)
-2. [Exercícios](/JavaScript/CursoEmVideo/Tarefas)
+1. [Aulas](/JavaScript/DigitalOne JavaScript)
