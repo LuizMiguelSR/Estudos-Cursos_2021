@@ -11,4 +11,4 @@ Curso em Vídeo
 ### JavaScript
 Digital One
 [Link Escola](https://digitalinnovation.one/)
-1. [Aulas](/JavaScript/DigitalOneJavaScript)
+1. [Aulas](/JavaScript/DigitalOne_JavaScript)
