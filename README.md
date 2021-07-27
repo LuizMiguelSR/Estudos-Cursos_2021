@@ -15,6 +15,11 @@
   
    - [Aulas](/JavaScript/DigitalOne_JavaScript)
 
+  [Digital One - EscmaScript 06](https://digitalinnovation.one/)
+  
+  **Aulas**
+  
+   - [Aula 01](/JavaScript//DigitalOne_EcmaScript_06_essencial/Aula01)
 
   [CFBCursos](https://www.youtube.com/playlist?list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC)
   
