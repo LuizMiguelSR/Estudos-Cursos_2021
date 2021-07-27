@@ -19,4 +19,4 @@ CFBCursos
 
 Udemy - Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap Webpack Gulp MySQL
 [Link Escola](https://www.udemy.com/)
-1. [Exercícios JS](/JavaScript/Udemy_-_Web_Completo/Exercícios-JS/Fundamentos/)
+1. [Exercícios JS](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Fundamentos/)
