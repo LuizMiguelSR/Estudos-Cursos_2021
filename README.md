@@ -16,3 +16,7 @@ Digital One
 CFBCursos
 [Link Youtube](https://www.youtube.com/playlist?list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC)
 1. [Aulas](/JavaScript/CFBCursos)
+
+Udemy - Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap Webpack Gulp MySQL
+[Link Escola](https://digitalinnovation.one/)
+1. [Aulas](/JavaScript/DigitalOne_JavaScript)
