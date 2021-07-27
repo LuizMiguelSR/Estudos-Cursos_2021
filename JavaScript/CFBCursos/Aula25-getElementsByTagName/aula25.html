@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 25 - JavaScript</title>
+    <h1>getElementsByTagName</h1>
+</head>
+<body>
+
+    <h2>CFB Cursos</h2>
+    <p>Curso de JavaScript</p>
+    <h2>Aula 25</h2>
+    <p>www.youtube.com/cfbcursos</p>
+    <h2>cfbcursos.com.br</h2>
+
+    <hr/>
+
+    <script>
+
+        var tags = document.getElementsByTagName("*"); // usando * muda de todas as tag
+
+        tags[8].innerHTML="NOVO TEXTO";
+        tags[8].style.color="#f00";
+        
+
+    </script>
+
+</body>
+</html>

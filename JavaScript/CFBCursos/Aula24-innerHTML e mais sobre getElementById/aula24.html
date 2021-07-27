@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 24 - JavaScript</title>
+    <h1>InnerHTML e mais sobre getElementById</h1>
+</head>
+<body>
+    <p id="texto">Luiz Miguel</p>
+    <input type="text" id="cxtexto" value="Rodrigues">
+    <div id="dv">Texto da Div</div>
+
+    <script>
+        /*var cxt = document.getElementById("cxtexto").value="Santos";
+        alert(cxt);*/
+        var cxt = document.getElementById("texto").innerHTML="Santos Rodrigues";
+        //alert(cxt);
+        document.getElementById("dv").innerHTML="É meu nome";
+    </script>
+</body>
+</html>

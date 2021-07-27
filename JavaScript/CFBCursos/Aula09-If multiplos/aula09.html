@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 08 - JavaScript</title>
+    <h1>If com múltiplos retornos</h1>
+    <script>
+        var nota = 22;
+        var res;
+        //Aprovado com louvor   > 95
+        //Aprovado              >= 60
+        //Recuperação           >= 40 && < 60
+        //Reprovado             < 40
+        //Reprovado com louvor  < 20
+        if(nota >= 95){
+            res="Aprovado com louvor";
+        } else if(nota >= 60){
+            res="Aprovado";
+        //} else if((nota >= 40)&&(nota < 60)){
+        } else if(nota >= 40){
+            res="Recuperação";
+        } else if(nota >= 20){
+            res="Reprovado";
+        } else {
+            res="Reprovado com louvor";
+        }     
+        document.write(res);
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

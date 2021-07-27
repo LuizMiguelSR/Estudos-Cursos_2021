@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula29 - JavaScript</title>
+    <h1>Math - Métodos e Constantes matemáticas</h1>
+    <script>
+        
+        var valor = 10.5;
+        
+        var angulo = 45;
+        var c=Math.cos(angulo * Math.PI/180);
+        var s=Math.sin(angulo * Math.PI/180);
+
+        var valores = Math.max(1, 2, 3, 4, 5, 6, 7, 8);
+        
+        var mt = Math.ceil(valor); //arredonda para cima
+        var mt1 = Math.floor(valor); //arredonda para baixo
+        var mt2 = Math.round(valor); //arredonda normal
+        var mt3 = Math.pow(valor, 10); //eleva um número a potencia
+        var mt4 = Math.sqrt(valor); //tira a raiz quadrada
+        var mt5 = Math.round(Math.random()*valor); //cria um número aleatório arredondado
+
+        document.write(mt+"<br/>");
+        document.write(mt1+"<br/>");
+        document.write(mt2+"<br/>");
+        document.write(mt3+"<br/>");
+        document.write(mt4+"<br/>");
+        document.write(mt5+"<br/>");
+        document.write("Angulo: " + angulo + "<br/>Cosseno: " + c +"<br/>Seno: " + s + "<br/>");
+        document.write(valores+"<br/>");
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

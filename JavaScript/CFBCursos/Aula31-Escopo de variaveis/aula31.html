@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 31 - JavaScript</title>
+    <h1>Escopo de variáveis</h1>
+    <script>
+
+        var nomeCor = "Vermelho";
+        document.write("<h3> Escopo de função</h3>")
+        function cor(){
+            var nomeCor="Azul";
+            document.write(this.nomeCor+"<br/>"+nomeCor);
+        }
+        cor();
+        
+        document.write("<h3> Escopo Global</h3>");
+        
+        
+        document.write(nomeCor+"</br>");
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
