@@ -20,6 +20,14 @@
   **Aulas**
   
    - [Aula 01](/JavaScript//DigitalOneEcmaScript06essencial/Aula01/)
+   - [Aula 02](/JavaScript//DigitalOneEcmaScript06essencial/Aula02/)
+   - [Aula 03](/JavaScript//DigitalOneEcmaScript06essencial/Aula03/)
+   - [Aula 04](/JavaScript//DigitalOneEcmaScript06essencial/Aula04/)
+   - [Aula 05](/JavaScript//DigitalOneEcmaScript06essencial/Aula05/)
+   - [Aula 06](/JavaScript//DigitalOneEcmaScript06essencial/Aula06/)
+   - [Aula 07](/JavaScript//DigitalOneEcmaScript06essencial/Aula07/)
+   - [Aula 08](/JavaScript//DigitalOneEcmaScript06essencial/Aula08/)
+   - [Aula 09](/JavaScript//DigitalOneEcmaScript06essencial/Aula09/)
 
   [CFBCursos](https://www.youtube.com/playlist?list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC)
   
