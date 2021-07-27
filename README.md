@@ -1,23 +1,28 @@
 # Cursos de Aperfeiçoamento em 2021
 
-## Navegação
+## _Navegação_
 
-### Java
-Curso em Vídeo
-[Link YouTube](https://youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR)
-1. [Aulas](/Java/CursoEmVideo/Aulas)
-2. [Exercícios](/Java/CursoEmVideo/Tarefas)
+### _Curso de Java_
 
-### JavaScript
-Digital One
-[Link Escola](https://digitalinnovation.one/)
-1. [Aulas](/JavaScript/DigitalOne_JavaScript)
+  [Curso em Vídeo](https://youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR)
+  
+   - [Aulas](/Java/CursoEmVideo/Aulas)
+   - [Exercícios](/Java/CursoEmVideo/Tarefas)
 
-CFBCursos
-[Link Youtube](https://www.youtube.com/playlist?list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC)
-1. [Aulas](/JavaScript/CFBCursos)
+### _Curso de JavaScript_
 
-Udemy - Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap Webpack Gulp MySQL
-[Link Escola](https://www.udemy.com/)
-1.[Exercícios JS]
-1.1. [Exercícios Fundamentos](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Fundamentos/)
+  [Digital One - JavaScript](https://digitalinnovation.one/)
+  
+   - [Aulas](/JavaScript/DigitalOne_JavaScript)
+
+
+  [CFBCursos](https://www.youtube.com/playlist?list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC)
+  
+   - [Aulas](/JavaScript/CFBCursos)
+  
+
+  [Udemy - Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap Webpack Gulp MySQL](https://www.udemy.com/)
+
+   **Exercícios JavaScript**
+   
+   - [Fundamentos](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Fundamentos/)
