@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 34 - JavaScript</title>
+    <h1>addEventListener P2 (keydown)</h1>
+    <style>
+        #dv1{
+            width: 100px;
+            height: 100px;
+            border: 1px solid #000;
+            background-color: #fff;
+            position: absolute;
+            left: 0px;
+            top: 0px;
+        }
+    </style>
+    <script>
+
+        var px = 0;
+        var py = 0;
+        var obj;
+
+        function move(){
+            
+            var tecla = event.keyCode;
+            //37 = Esquerda
+            //38 = Cima
+            //39 = Direita
+            //40 = Baixo
+            if(tecla == 37){
+                px -= 10;
+                obj.style.left = px + "px";
+            } else if(tecla == 38) {
+                py -= 10;
+                obj.style.top = py + "px";
+            } else if(tecla == 39) {
+                px += 10;
+                obj.style.left = px + "px";
+            } else if(tecla == 40) {
+                py += 10;
+                obj.style.top = py + "px";
+            } else if(tecla == 13) {
+                alert("Evento keydown removido");
+                obj.style.backgroundColor="#fff";
+                document.removeEventListener("keydown", move);
+            }
+        }
+
+        function addClique(){
+            document.addEventListener("keydown", move);
+            obj.style.backgroundColor="#f00";
+        }
+        function iniciar(){
+            obj = document.getElementById("dv1");
+            obj.addEventListener("click", addClique)
+        }
+        
+        window.addEventListener("load", iniciar);
+       
+    </script>
+</head>
+<body>
+    <div id="dv1"></div>
+</body>
+</html>
