@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 45 - JavaScript</title>
+    <h1>Manipulando atributos html por JavaScript</h1>
+    <style>
+        #imagem{
+            width: 1000px;
+            height: 300px;
+        }
+        .c1{
+            background-image: url("imgs/c1.png");
+        }
+        .c2{
+            background-image: url("imgs/c2.png");
+        }
+        .c3{
+            background-image: url("imgs/c3.png");
+        }
+    </style>
+    <script>
+        function trocaimagem(c){
+            var obj = document.getElementById("imagem");
+            if(c == 1){
+                obj.setAttribute("class", "c1");
+            }else if(c == 2){
+                obj.setAttribute("class", "c2");
+            }else if(c == 3){
+                obj.setAttribute("class", "c3");
+            }
+        }
+        function removerimagem(){
+            var obj = document.getElementById("imagem");
+            obj.removeAttribute("class");
+        }
+        function verifica(){
+            var obj = document.getElementById("imagem");
+            if(obj.hasAttribute("class")){
+                alert("Atributo class está na tag");
+            }else{
+                alert("Sem atributo class");
+            }
+        }
+    </script>
+</head>
+<body>
+    <button onclick="trocaimagem(1)">Imagem 1</button>
+    <button onclick="trocaimagem(2)">Imagem 2</button>
+    <button onclick="trocaimagem(3)">Imagem 3</button>
+    <button onclick="removerimagem()">Remover Imagem</button>
+    <button onclick="verifica()">Verificar</button>
+    <div id="imagem" ></div>
+
+</body>
+</html>
