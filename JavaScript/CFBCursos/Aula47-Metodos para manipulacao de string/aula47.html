@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 47 - JavaScript</title>
+    <h1>Métodos para manipulação de String P2</h1>
+</head>
+<body>
+
+    <p id="txt">CFB Cursos - Curso de Javascript</p>
+
+    <script>
+        var texto = document.getElementById("txt").innerHTML;
+        var txt2 = " - Texto de teste";
+
+        var res = texto.search(/curso/i); // Só retorna a posição do primeiro elemento encontrado
+        document.write(res + "<br>");
+
+        var res = texto.charAt(11); // Retorna um valor de acordo com a posição indicada
+        document.write(res + "<br>");
+
+        var res = texto.charCodeAt(11); // Retorna um código de acordo com a posição indicada
+        document.write(res + "<br>");
+        document.write(String.fromCharCode(67)+"<br>"); // Retorna o caractere indicado pelo seu código
+
+        var res = texto.replace(/curso/ig, "aula"); // Substitui um valor por outro, se acrescentar o g ele substitui todas as ocorrências
+        document.write(res + "<br>");
+
+        var res = texto.concat(" - aula 46 do curso de javascript" + txt2); // Concatena strings, sendo puramente strings ou apenas variáveis
+        document.write(res);
+    </script>
+
+</body>
+</html>
