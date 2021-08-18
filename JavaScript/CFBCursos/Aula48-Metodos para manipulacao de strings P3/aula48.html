@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 48 - JavaScript</title>
+    <h1>Métodos de manipulação de Strings P3</h1>
+</head>
+<body>
+
+    <p id="txt">CFB Cursos - Curso de Javascript</p>
+
+    <script>
+        var texto = document.getElementById("txt").innerHTML;
+        var texto1 = document.getElementById("txt").innerHTML;
+        var texto2 = "CFB Cursos Curso de Javascript";
+
+        var res = texto.substr(4,6); // Imprime caracteres idicados, a partir da posição informada e em seguida é indicado também o tamanho do corte
+        document.write(res + "<br>");
+
+        var res = texto.split(" "); // Imprime caracteres idicados, a partir do valor informado em forma de vetor
+        document.write(res[0] + "<br>");
+
+        var res0 = texto.slice(22,32); // Imprime caracteres idicados nas posições de inicio e fim
+        document.write(res0 + "<br>");
+
+        var res = texto1.localeCompare(texto2); // Compara textos se for 0 = iguais e != 0 são diferentes
+        if (res == 0){
+            document.write("Strings iguais! <br>");
+        } else {
+            document.write("Srings diferentes! <br>");
+        }
+
+        var res = texto1.indexOf("J"); // Mostra a primeira posição de um caractere indicado, ele é case sensitive
+        if (res < 0){
+            document.write("Letra não encontrada! <br>");
+        } else {
+            document.write(res + "<br>");
+        }
+
+        var res2 = texto1.lastIndexOf("C"); // Mostra a última posição de um caractere indicado, ele é case sensitive
+        if (res2 < 0){
+            document.write("Letra não encontrada! <br>");
+        } else {
+            document.write(res2 + "<br>");
+        }
+
+        var res = texto.toLowerCase(); // Imprime todos os caracteres em minusculo
+        document.write(res + "<br>");
+
+        var res = texto.toUpperCase(); // Imprime todos os caracteres em maiusculo
+        document.write(res + "<br>");
+
+    </script>
+
+</body>
+</html>
