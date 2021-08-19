@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 49 - JavaScript</title>
+    <h1>Métodos de manipulação de Strings P3</h1>
+</head>
+<body>
+
+    <script>
+        var texto = "CFB Cursos - Curso de Javascript";
+        var res = texto.trim(); // Elimina espaço no inicio e fim
+        //alert(res);
+
+        document.write(res + "<br>");
+
+        var texto1 = "CFB Cursos - \'Curso'\ de Javascript"; // Utilizando \ entre o texto que deseja inserir um caractere reservado, é possível imprimir ele
+
+        document.write(texto1);
+
+        var num = 15;
+        var res = num.toString();
+        var bin = num.toString(2);
+        var oct = num.toString(8);
+        var hex = num.toString(16);
+
+        document.write(res + "<br>");
+        document.write(bin + "<br>");
+        document.write(oct + "<br>");
+        document.write(hex + "<br>");
+
+    </script>
+
+</body>
+</html>
