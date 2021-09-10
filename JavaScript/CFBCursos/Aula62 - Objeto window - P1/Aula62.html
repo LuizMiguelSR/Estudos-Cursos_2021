@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 62 - JavaScript</title>
+    <h1>Objeto window</h1>
+    <style></style>
+    <script>
+
+        var minhaJanela;
+
+        function abreJ(){
+            minhaJanela = window.open("tmp.html","_blank","width=300,height=300,top=300,left=300");
+        }
+
+        function fechaJ(){
+            minhaJanela.close();
+        }
+        
+    </script>
+    
+</head>
+<body>
+    <button onclick="abreJ()">Abre Nova Janela</button>
+    <button onclick="fechaJ()">Fechar Janela</button>
+</body>
+</html>
