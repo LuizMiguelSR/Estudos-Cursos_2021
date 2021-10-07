@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 68 - Curso de JavaScript</title>
+    <style>
+        body{
+            background-color: #f00;
+            color: #fff;
+        }
+        a{color: #fff;}
+    </style>
+    <script>
+
+        var aux = location.hash;      
+        var dados = aux.split("#");
+        var v1 = dados[1];
+        var v2 = dados[2];
+        document.write(v1);
+        document.write("<br>");
+        var h = location.hostname;
+        //var href = location.href = "https://www.youtube.com/cfbcursos"; //quiser setar um endereço
+        var href = location.href; // endereço atual
+        document.write(h);
+        document.write("<br>");
+        var o = location.origin; // retorna o protocolo, hosname e porta
+        document.write(o);
+        document.write("<br>");
+        var p = location.pathname; // retorna o caminho
+        document.write(p);
+        document.write("<br>");
+        var pr = location.protocol; // retorna o protocolo
+        document.write(pr);
+        document.write("<br>");
+        document.write(href);
+        document.write("<br>");
+
+        aux = location.search;      
+        dados = aux.split("?");
+        v1 = dados[1].split("=")[1];
+        document.write(v1);
+        document.write("<hr>");
+
+    </script>
+</head>
+<body>
+    
+    <h1>Página 02 - p2.html</h1>
+
+    <a href="aula68.html">Voltar</a>
+
+</body>
+</html>
