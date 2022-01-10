@@ -2,40 +2,38 @@
 
 ## _Navegação_
 
-### _Curso de Java_
+### 💻 **Curso de Java**
 
-  [Curso em Vídeo](https://youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR)
-  
-   - [Aulas](/Java/CursoEmVideo/Aulas)
-   - [Exercícios](/Java/CursoEmVideo/Tarefas)
+#### _Curso em Vídeo_
 
-### _Curso de JavaScript_
+- [Aulas](/Java/CursoEmVideo/Aulas)
+- [Exercícios](/Java/CursoEmVideo/Tarefas)
 
-  [Digital One - JavaScript](https://digitalinnovation.one/)
-  
-   - [Aulas](/JavaScript/DigitalOne_JavaScript)
+### 💻 **Curso de JavaScript**
 
-  [Digital One - EscmaScript 06](https://digitalinnovation.one/)
-  
-  **Aulas**
-  
-   - [Aula 01](/JavaScript//DigitalOneEcmaScript06essencial/Aula01/)
-   - [Aula 02](/JavaScript//DigitalOneEcmaScript06essencial/Aula02/)
-   - [Aula 03](/JavaScript//DigitalOneEcmaScript06essencial/Aula03/)
-   - [Aula 04](/JavaScript//DigitalOneEcmaScript06essencial/Aula04/)
-   - [Aula 05](/JavaScript//DigitalOneEcmaScript06essencial/Aula05/)
-   - [Aula 06](/JavaScript//DigitalOneEcmaScript06essencial/Aula06/)
-   - [Aula 07](/JavaScript//DigitalOneEcmaScript06essencial/Aula07/)
-   - [Aula 08](/JavaScript//DigitalOneEcmaScript06essencial/Aula08/)
-   - [Aula 09](/JavaScript//DigitalOneEcmaScript06essencial/Aula09/)
+#### _Udemy - Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap Webpack Gulp MySQL_
 
-  [CFBCursos](https://www.youtube.com/playlist?list=PLx4x_zx8csUj3IbPQ4_X5jis_SkCol3eC)
-  
-   - [Aulas](/JavaScript/CFBCursos)
-  
+- Práticas e exercícios
+  - [Fundamentos](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Fundamentos/)
+  - [Estruturas de Controle](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Fundamentos/)
 
-  [Udemy - Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap Webpack Gulp MySQL](https://www.udemy.com/)
+#### _Digital One - JavaScript Básico_
 
-   **Exercícios JavaScript**
-   
-   - [Fundamentos](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Fundamentos/)
+- [Aulas](/JavaScript/DigitalOne_JavaScript)
+
+#### _Digital One - EscmaScript 06_
+
+- Aulas e práticas
+  - [Aula 01](/JavaScript//DigitalOneEcmaScript06essencial/Aula01/)
+  - [Aula 02](/JavaScript//DigitalOneEcmaScript06essencial/Aula02/)
+  - [Aula 03](/JavaScript//DigitalOneEcmaScript06essencial/Aula03/)
+  - [Aula 04](/JavaScript//DigitalOneEcmaScript06essencial/Aula04/)
+  - [Aula 05](/JavaScript//DigitalOneEcmaScript06essencial/Aula05/)
+  - [Aula 06](/JavaScript//DigitalOneEcmaScript06essencial/Aula06/)
+  - [Aula 07](/JavaScript//DigitalOneEcmaScript06essencial/Aula07/)
+  - [Aula 08](/JavaScript//DigitalOneEcmaScript06essencial/Aula08/)
+  - [Aula 09](/JavaScript//DigitalOneEcmaScript06essencial/Aula09/)
+
+#### _CFBCursos_
+
+- [Aulas](/JavaScript/CFBCursos)
