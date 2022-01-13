@@ -15,7 +15,10 @@
 
 - Práticas e exercícios
   - [Fundamentos](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Fundamentos/)
-  - [Estruturas de Controle](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Fundamentos/)
+  - [Estruturas de Controle](/JavaScript/Udemy-WebCompleto/Exercicios-JS/controle/)
+    - If;
+    - If/else;
+    - Switch;
 
 #### _Digital One - JavaScript Básico_
 
