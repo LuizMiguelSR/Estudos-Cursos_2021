@@ -15,10 +15,25 @@
 
 - Práticas e exercícios
   - [Fundamentos](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Fundamentos/)
+    - Bloco;
+    - Comentários;
+    - Dados;
+    - Setenças;
+    - Atribuição;
+    - Variáveis e constantes;
+    - Arrays;
+    - Funções;
+    - Objeto;
+    - Tipagem;
+    - Destructuring;
+    - Hoisting;
+    - Strings;
+    - Erros;
   - [Estruturas de Controle](/JavaScript/Udemy-WebCompleto/Exercicios-JS/controle/)
     - If;
     - If/else;
     - Switch;
+    - While;
 
 #### _Digital One - JavaScript Básico_
 
