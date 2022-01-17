@@ -34,6 +34,7 @@
     - If/else;
     - Switch;
     - While;
+    - Do while;
 
 #### _Digital One - JavaScript Básico_
 
