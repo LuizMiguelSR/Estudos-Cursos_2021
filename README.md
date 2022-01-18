@@ -35,6 +35,7 @@
     - Switch;
     - While;
     - Do while;
+    - For;
 
 #### _Digital One - JavaScript Básico_
 
