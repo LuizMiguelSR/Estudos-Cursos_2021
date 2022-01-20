@@ -36,6 +36,7 @@
     - While;
     - Do while;
     - For e For In;
+    - Break e continue;
 
 #### _Digital One - JavaScript Básico_
 
