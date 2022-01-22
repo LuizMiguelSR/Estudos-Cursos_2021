@@ -37,6 +37,8 @@
     - Do while;
     - For e For In;
     - Break e continue;
+  - [Funçao](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/)
+    - Cidadão de primeira classe;
 
 #### _Digital One - JavaScript Básico_
 
