@@ -39,6 +39,7 @@
     - Break e continue;
   - [Funçao](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/)
     - Cidadão de primeira classe;
+    - Parâmetros e Retornos são opcionais;
 
 #### _Digital One - JavaScript Básico_
 
