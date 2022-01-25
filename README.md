@@ -40,6 +40,7 @@
   - [Funçao](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/)
     - Cidadão de primeira classe;
     - Parâmetros e Retornos são opcionais;
+    - Parâmetros variáveis;
 
 #### _Digital One - JavaScript Básico_
 
