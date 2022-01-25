@@ -41,6 +41,7 @@
     - Cidadão de primeira classe;
     - Parâmetros e Retornos são opcionais;
     - Parâmetros variáveis;
+    - Parâmetro padrão (Antes de depois do Ecmascript 2015);
 
 #### _Digital One - JavaScript Básico_
 
