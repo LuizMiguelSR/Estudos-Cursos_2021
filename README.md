@@ -4,7 +4,7 @@
 
 ### 💻 **Curso de Java**
 
-#### _Curso em Vídeo_
+#### _Curso em Vídeo (✔Finalizado)_
 
 - [Aulas](/Java/CursoEmVideo/Aulas)
 - [Exercícios](/Java/CursoEmVideo/Tarefas)
@@ -44,11 +44,11 @@
     - Parâmetro padrão (Antes de depois do Ecmascript 2015);
     - This e suas variantes;
 
-#### _Digital One - JavaScript Básico_
+#### _Digital One - JavaScript Básico (✔Finalizado)_
 
 - [Aulas](/JavaScript/DigitalOne_JavaScript)
 
-#### _Digital One - EscmaScript 06_
+#### _Digital One - EscmaScript 06 (✔Finalizado)_
 
 - Aulas e práticas
   - [Aula 01](/JavaScript//DigitalOneEcmaScript06essencial/Aula01/)
@@ -61,6 +61,6 @@
   - [Aula 08](/JavaScript//DigitalOneEcmaScript06essencial/Aula08/)
   - [Aula 09](/JavaScript//DigitalOneEcmaScript06essencial/Aula09/)
 
-#### _CFBCursos_
+#### _CFBCursos (✔Finalizado)_
 
 - [Aulas](/JavaScript/CFBCursos)
