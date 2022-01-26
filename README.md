@@ -42,6 +42,7 @@
     - Parâmetros e Retornos são opcionais;
     - Parâmetros variáveis;
     - Parâmetro padrão (Antes de depois do Ecmascript 2015);
+    - This e suas variantes;
 
 #### _Digital One - JavaScript Básico_
 
