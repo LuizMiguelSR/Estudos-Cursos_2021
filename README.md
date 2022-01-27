@@ -2,13 +2,6 @@
 
 ## _Navegação_
 
-### 💻 **Curso de Java**
-
-#### _Curso em Vídeo (✔Finalizado)_
-
-- [Aulas](/Java/CursoEmVideo/Aulas)
-- [Exercícios](/Java/CursoEmVideo/Tarefas)
-
 ### 💻 **Curso de JavaScript**
 
 #### _Udemy - Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap Webpack Gulp MySQL_
@@ -43,10 +36,16 @@
     - Parâmetros variáveis;
     - Parâmetro padrão (Antes de depois do Ecmascript 2015);
     - This e suas variantes;
+    - Arrow function;
+    - Funções anônimas;
 
 #### _Digital One - JavaScript Básico (✔Finalizado)_
 
 - [Aulas](/JavaScript/DigitalOne_JavaScript)
+
+#### _CFBCursos (✔Finalizado)_
+
+- [Aulas](/JavaScript/CFBCursos)
 
 #### _Digital One - EscmaScript 06 (✔Finalizado)_
 
@@ -61,6 +60,9 @@
   - [Aula 08](/JavaScript//DigitalOneEcmaScript06essencial/Aula08/)
   - [Aula 09](/JavaScript//DigitalOneEcmaScript06essencial/Aula09/)
 
-#### _CFBCursos (✔Finalizado)_
+### 💻 **Curso de Java**
 
-- [Aulas](/JavaScript/CFBCursos)
+#### _Curso em Vídeo (✔Finalizado)_
+
+- [Aulas](/Java/CursoEmVideo/Aulas)
+- [Exercícios](/Java/CursoEmVideo/Tarefas)
