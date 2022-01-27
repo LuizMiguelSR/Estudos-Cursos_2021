@@ -36,7 +36,7 @@
     - Parâmetros variáveis;
     - Parâmetro padrão (Antes de depois do Ecmascript 2015);
     - This e suas variantes;
-    - Arrow function;
+    - [Arrow function](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/arrowFunction1.js);
     - Funções anônimas;
 
 #### _Digital One - JavaScript Básico (✔Finalizado)_
