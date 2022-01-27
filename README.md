@@ -4,7 +4,7 @@
 
 ### 💻 **Curso de JavaScript**
 
-#### _Udemy - Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap Webpack Gulp MySQL_
+#### _📚 Udemy - Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap Webpack Gulp MySQL_
 
 - Práticas e exercícios
   - [Fundamentos](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Fundamentos/)
@@ -42,15 +42,15 @@
     - [Arrow function #03](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/arrowFunction3.js);
     - Funções anônimas;
 
-#### _Digital One - JavaScript Básico (✔Finalizado)_
+#### _📚 Digital One - JavaScript Básico (✔Finalizado)_
 
 - [Aulas](/JavaScript/DigitalOne_JavaScript)
 
-#### _CFBCursos (✔Finalizado)_
+#### _📚 CFBCursos (✔Finalizado)_
 
 - [Aulas](/JavaScript/CFBCursos)
 
-#### _Digital One - EscmaScript 06 (✔Finalizado)_
+#### _📚 Digital One - EscmaScript 06 (✔Finalizado)_
 
 - Aulas e práticas
   - [Aula 01](/JavaScript//DigitalOneEcmaScript06essencial/Aula01/)
@@ -65,7 +65,7 @@
 
 ### 💻 **Curso de Java**
 
-#### _Curso em Vídeo (✔Finalizado)_
+#### _📚 Curso em Vídeo (✔Finalizado)_
 
 - [Aulas](/Java/CursoEmVideo/Aulas)
 - [Exercícios](/Java/CursoEmVideo/Tarefas)
