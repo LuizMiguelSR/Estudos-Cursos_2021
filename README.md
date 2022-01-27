@@ -31,12 +31,15 @@
     - For e For In;
     - Break e continue;
   - [Funçao](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/)
-    - Cidadão de primeira classe;
-    - Parâmetros e Retornos são opcionais;
-    - Parâmetros variáveis;
-    - Parâmetro padrão (Antes de depois do Ecmascript 2015);
-    - This e suas variantes;
-    - [Arrow function](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/arrowFunction1.js);
+    - [Cidadão de primeira classe](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/cidadaoPrimeiraClasse.js);
+    - [Parâmetros e Retornos são opcionais](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/paramsERetornosSaoOpcionais.js);
+    - [Parâmetros variáveis](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/paramsVariaveis.js);
+    - [Parâmetro padrão (Antes de depois do Ecmascript 2015)](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/paramsPadrao.js);
+    - [This e Bind #01](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/thisEBind1.js);
+    - [This e Bind #02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/thisEBind2.js);
+    - [Arrow function #01](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/arrowFunction1.js);
+    - [Arrow function #02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/arrowFunction2.js);
+    - [Arrow function #03](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/arrowFunction3.js);
     - Funções anônimas;
 
 #### _Digital One - JavaScript Básico (✔Finalizado)_
