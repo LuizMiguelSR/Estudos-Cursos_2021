@@ -23,24 +23,22 @@
     * Strings;
     * Erros;
   * [Estruturas de Controle](/JavaScript/Udemy-WebCompleto/Exercicios-JS/controle/)
-    * If;
-    * If/else;
-    * Switch;
-    * While;
-    * Do while;
-    * For e For In;
-    * Break e continue;
+    * [If 01](/JavaScript/Udemy-WebCompleto/Exercicios-JS/controle/if1.js) e [If 02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/controle/if2.js);
+    * [If/else 01](/JavaScript/Udemy-WebCompleto/Exercicios-JS/controle/ifElse.js) e [If/else 02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/controle/ifElseIf.js);
+    * [Switch](/JavaScript/Udemy-WebCompleto/Exercicios-JS/controle/switch.js);
+    * [While](/JavaScript/Udemy-WebCompleto/Exercicios-JS/controle/while.js);
+    * [Do while](/JavaScript/Udemy-WebCompleto/Exercicios-JS/controle/doWhile.js);
+    * [For](/JavaScript/Udemy-WebCompleto/Exercicios-JS/controle/for1.js) e [For In](/JavaScript/Udemy-WebCompleto/Exercicios-JS/controle/for2.js);
+    * [Break e continue](/JavaScript/Udemy-WebCompleto/Exercicios-JS/controle/breakContinue.js);
   * [Funçao](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/)
     * [Cidadão de primeira classe](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/cidadaoPrimeiraClasse.js);
     * [Parâmetros e Retornos são opcionais](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/paramsERetornosSaoOpcionais.js);
     * [Parâmetros variáveis](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/paramsVariaveis.js);
     * [Parâmetro padrão (Antes de depois do Ecmascript 2015)](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/paramsPadrao.js);
-    * [This e Bind #01](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/thisEBind1.js);
-    * [This e Bind #02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/thisEBind2.js);
-    * [Arrow function #01](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/arrowFunction1.js);
-    * [Arrow function #02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/arrowFunction2.js);
-    * [Arrow function #03](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/arrowFunction3.js);
+    * [This e Bind #01](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/thisEBind1.js) e [This e Bind #02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/thisEBind2.js);
+    * [Arrow function #01](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/arrowFunction1.js), [Arrow function #02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/arrowFunction2.js) e [Arrow function #03](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/arrowFunction3.js);
     * [Funções anônimas](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/funcoesAnonimas.js);
+    * [Funções Callback 01](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/callback1.js), [Funções Callback 02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/callback2.js) e [Funções Callback 03](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/callback3.js);
 
 </details>
 
