@@ -7,7 +7,7 @@
 * <details>
   <summary> <b>(Andamento) Udemy - 📚 Curso de Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap Webpack Gulp MySQL</b> </summary>
 
-  * [Fundamentos](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Fundamentos/)
+  * [Fundamentos](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Fundamentos/);
     * Bloco;
     * Comentários;
     * Dados;
@@ -22,7 +22,7 @@
     * Hoisting;
     * Strings;
     * Erros;
-  * [Estruturas de Controle](/JavaScript/Udemy-WebCompleto/Exercicios-JS/controle/)
+  * [Estruturas de Controle](/JavaScript/Udemy-WebCompleto/Exercicios-JS/controle/);
     * [If 01](/JavaScript/Udemy-WebCompleto/Exercicios-JS/controle/if1.js) e [If 02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/controle/if2.js);
     * [If/else 01](/JavaScript/Udemy-WebCompleto/Exercicios-JS/controle/ifElse.js) e [If/else 02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/controle/ifElseIf.js);
     * [Switch](/JavaScript/Udemy-WebCompleto/Exercicios-JS/controle/switch.js);
@@ -30,7 +30,7 @@
     * [Do while](/JavaScript/Udemy-WebCompleto/Exercicios-JS/controle/doWhile.js);
     * [For](/JavaScript/Udemy-WebCompleto/Exercicios-JS/controle/for1.js) e [For In](/JavaScript/Udemy-WebCompleto/Exercicios-JS/controle/for2.js);
     * [Break e continue](/JavaScript/Udemy-WebCompleto/Exercicios-JS/controle/breakContinue.js);
-  * [Funçao](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/)
+  * [Funçao](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/);
     * [Cidadão de primeira classe](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/cidadaoPrimeiraClasse.js);
     * [Parâmetros e Retornos são opcionais](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/paramsERetornosSaoOpcionais.js);
     * [Parâmetros variáveis](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/paramsVariaveis.js);
@@ -45,30 +45,30 @@
 * <details>
   <summary> <b>(✔Finalizado) Digital One - 📚 JavaScript Básico</b> </summary>
 
-  * [Aulas](/JavaScript/DigitalOne_JavaScript)
+  * [Aulas](/JavaScript/DigitalOne_JavaScript);
 
 </details>
 
 * <details>
   <summary> <b>(✔Finalizado) Digital One - 📚 Curso de EscmaScript 06</b> </summary>
 
-  * Aulas e práticas
-    * [Aula 01](/JavaScript//DigitalOneEcmaScript06essencial/Aula01/)
-    * [Aula 02](/JavaScript//DigitalOneEcmaScript06essencial/Aula02/)
-    * [Aula 03](/JavaScript//DigitalOneEcmaScript06essencial/Aula03/)
-    * [Aula 04](/JavaScript//DigitalOneEcmaScript06essencial/Aula04/)
-    * [Aula 05](/JavaScript//DigitalOneEcmaScript06essencial/Aula05/)
-    * [Aula 06](/JavaScript//DigitalOneEcmaScript06essencial/Aula06/)
-    * [Aula 07](/JavaScript//DigitalOneEcmaScript06essencial/Aula07/)
-    * [Aula 08](/JavaScript//DigitalOneEcmaScript06essencial/Aula08/)
-    * [Aula 09](/JavaScript//DigitalOneEcmaScript06essencial/Aula09/)
+  * Aulas e práticas;
+    * [Aula 01](/JavaScript//DigitalOneEcmaScript06essencial/Aula01/);
+    * [Aula 02](/JavaScript//DigitalOneEcmaScript06essencial/Aula02/);
+    * [Aula 03](/JavaScript//DigitalOneEcmaScript06essencial/Aula03/);
+    * [Aula 04](/JavaScript//DigitalOneEcmaScript06essencial/Aula04/);
+    * [Aula 05](/JavaScript//DigitalOneEcmaScript06essencial/Aula05/);
+    * [Aula 06](/JavaScript//DigitalOneEcmaScript06essencial/Aula06/);
+    * [Aula 07](/JavaScript//DigitalOneEcmaScript06essencial/Aula07/);
+    * [Aula 08](/JavaScript//DigitalOneEcmaScript06essencial/Aula08/);
+    * [Aula 09](/JavaScript//DigitalOneEcmaScript06essencial/Aula09/);
 
 </details>
 
 * <details>
   <summary> <b>(✔Finalizado) CFBCursos - 📚 Curso de JavaScript</b> </summary>
 
-  * [Aulas](/JavaScript/CFBCursos)
+  * [Aulas](/JavaScript/CFBCursos);
 
 </details>
 
@@ -79,7 +79,7 @@
 * <details>
   <summary> <b>(✔Finalizado) Curso em Vídeo - 📚 Curso de Java e JavaFX </b> </summary>
 
-  * [Aulas](/Java/CursoEmVideo/Aulas)
-  * [Exercícios](/Java/CursoEmVideo/Tarefas)
+  * [Aulas](/Java/CursoEmVideo/Aulas);
+  * [Exercícios](/Java/CursoEmVideo/Tarefas);
 
 </details>
