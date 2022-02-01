@@ -41,6 +41,7 @@
     * [Funções Callback 01](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/callback1.js), [Funções Callback 02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/callback2.js) e [Funções Callback 03](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/callback3.js);
     * [Funções Construtoras](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/funcaoConstrutora.js);
     * [Tipos de declaração de funções](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/tiposDeclaracao.js);
+    * [Contexto léxico](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/contextoLexico.js);
 
 </details>
 
