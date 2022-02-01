@@ -39,6 +39,7 @@
     * [Arrow function #01](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/arrowFunction1.js), [Arrow function #02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/arrowFunction2.js) e [Arrow function #03](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/arrowFunction3.js);
     * [Funções anônimas](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/funcoesAnonimas.js);
     * [Funções Callback 01](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/callback1.js), [Funções Callback 02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/callback2.js) e [Funções Callback 03](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/callback3.js);
+    * [Funções Construtoras](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/funcaoConstrutora.js);
 
 </details>
 
