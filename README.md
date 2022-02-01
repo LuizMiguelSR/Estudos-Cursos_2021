@@ -42,6 +42,7 @@
     * [Funções Construtoras](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/funcaoConstrutora.js);
     * [Tipos de declaração de funções](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/tiposDeclaracao.js);
     * [Contexto léxico](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/contextoLexico.js);
+    * [Closures](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/closure.js);
 
 </details>
 
