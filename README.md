@@ -43,6 +43,8 @@
     * [Tipos de declaração de funções](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/tiposDeclaracao.js);
     * [Contexto léxico](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/contextoLexico.js);
     * [Closures](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/closure.js);
+    * [Factory 01](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/factory1.js) e [Factory 02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/factory2.js);
+    * [Class vs Factory](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/classVsFactory.js);
 
 </details>
 
