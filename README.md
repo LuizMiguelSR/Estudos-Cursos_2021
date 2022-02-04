@@ -46,6 +46,7 @@
     * [Factory #01](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/factory1.js) e [Factory #02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/factory2.js);
     * [Class vs Factory](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/classVsFactory.js);
     * [Desafio função construtora](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/desafioFuncaoConstrutora.js);
+    * [IIFE - Immediately Invoked Function Expression](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/iife.js);
 
 </details>
 
