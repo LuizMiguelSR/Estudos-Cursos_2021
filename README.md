@@ -48,6 +48,7 @@
     * [Desafio função construtora](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/desafioFuncaoConstrutora.js);
     * [IIFE - Immediately Invoked Function Expression](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/iife.js);
     * [Call e Apply](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/callApply.js);
+    * Comparação entre string de números;
 
 </details>
 
