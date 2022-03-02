@@ -82,4 +82,4 @@
 - ### **Curso em Vídeo - 📚 Curso de Java e JavaFX (✔Finalizado)**
 
   - [Aulas](/Java/CursoEmVideo/Aulas);
-  - [Exercícios](/Java/CursoEmVideo/Tarefas);.
+  - [Exercícios](/Java/CursoEmVideo/Tarefas);
