@@ -49,6 +49,8 @@
     - [Call e Apply](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/callApply.js);
     - Comparação entre string de números;
     - [Exercícios](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/exercicios/);
+  - [Orientação à objetos](/JavaScript/Udemy-WebCompleto/Exercicios-JS/objetos/);
+    - [Introdução à orientação a objetos](/JavaScript/Udemy-WebCompleto/Exercicios-JS/objetos/oo.js);
 
 &nbsp;
 
