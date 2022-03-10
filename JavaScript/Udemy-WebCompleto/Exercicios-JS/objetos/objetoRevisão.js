@@ -32,3 +32,7 @@ const carro = {
         // ...
     }
 };
+
+carro.proprietario.endereco.numero = 1000;
+carro['proprietario']['endereco']['logradouro'] = 'Av Gigante';
+console.log(carro);
