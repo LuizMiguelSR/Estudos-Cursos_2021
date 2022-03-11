@@ -40,3 +40,6 @@ const filha = Object.create(null);
 filha.nome = 'Ana';
 console.log(filha);
 
+// Uma função famosa que retorna um objeto...
+const fromJSON = JSON.parse('{"Info": "Sou um JSON"}');
+console.log(fromJSON.info);
