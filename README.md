@@ -51,7 +51,8 @@
     - [Exercícios](/JavaScript/Udemy-WebCompleto/Exercicios-JS/funcao/exercicios/);
   - [Orientação à objetos](/JavaScript/Udemy-WebCompleto/Exercicios-JS/objetos/);
     - [Introdução à orientação a objetos](/JavaScript/Udemy-WebCompleto/Exercicios-JS/objetos/oo.js);
-    - [Revisão sobre objetos](/JavaScript/Udemy-WebCompleto/Exercicios-JS/objetos/objetoRevis%C3%A3o.js);
+    - [Revisão sobre objetos](/JavaScript/Udemy-WebCompleto/Exercicios-JS/objetos/objetoRevisao.js);
+    - [Estratégias de criação de objetos](/JavaScript/Udemy-WebCompleto/Exercicios-JS/objetos/criandoObjetos.js)
 
 &nbsp;
 
