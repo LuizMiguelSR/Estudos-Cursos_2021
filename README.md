@@ -54,6 +54,7 @@
     - [Revisão sobre objetos](/JavaScript/Udemy-WebCompleto/Exercicios-JS/objetos/objetoRevisao.js);
     - [Estratégias de criação de objetos](/JavaScript/Udemy-WebCompleto/Exercicios-JS/objetos/criandoObjetos.js)
     - [Objetos Constantes](/JavaScript/Udemy-WebCompleto/Exercicios-JS/objetos/objetosConstantes.js);
+    - [Notação literal](/JavaScript/Udemy-WebCompleto/Exercicios-JS/objetos/notacaoLiteral.js);
 
 &nbsp;
 
