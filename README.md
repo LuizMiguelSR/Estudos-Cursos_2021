@@ -56,6 +56,7 @@
     - [Objetos Constantes](/JavaScript/Udemy-WebCompleto/Exercicios-JS/objetos/objetosConstantes.js);
     - [Notação literal](/JavaScript/Udemy-WebCompleto/Exercicios-JS/objetos/notacaoLiteral.js);
     - [Getters/Setters](/JavaScript/Udemy-WebCompleto/Exercicios-JS/objetos/getterSetter.js);
+    - [Funções importantes dos objetos](/JavaScript/Udemy-WebCompleto/Exercicios-JS/objetos/funcoesImportantes.js);
 
 &nbsp;
 
