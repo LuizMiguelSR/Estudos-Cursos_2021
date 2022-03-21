@@ -58,6 +58,7 @@
     - [Getters/Setters](/JavaScript/Udemy-WebCompleto/Exercicios-JS/objetos/getterSetter.js);
     - [Funções importantes dos objetos](/JavaScript/Udemy-WebCompleto/Exercicios-JS/objetos/funcoesImportantes.js);
     - [Herança #01](/JavaScript/Udemy-WebCompleto/Exercicios-JS/objetos/heranca1.js);
+    - [Herança #02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/objetos/heranca2.js);
 
 &nbsp;
 
