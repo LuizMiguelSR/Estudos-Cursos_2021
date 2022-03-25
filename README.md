@@ -61,6 +61,7 @@
     - [Herança #02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/objetos/heranca2.js);
     - [Herança #03](/JavaScript/Udemy-WebCompleto/Exercicios-JS/objetos/heranca3.js);
     - [Herança #04](/JavaScript/Udemy-WebCompleto/Exercicios-JS/objetos/heranca4.js);
+    - [Herança #05](/JavaScript/Udemy-WebCompleto/Exercicios-JS/objetos/heranca5.js);
 
 &nbsp;
 
