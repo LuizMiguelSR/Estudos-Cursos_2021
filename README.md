@@ -64,6 +64,7 @@
     - [Herança #05](/JavaScript/Udemy-WebCompleto/Exercicios-JS/objetos/heranca5.js);
     - [Herança #06](/JavaScript/Udemy-WebCompleto/Exercicios-JS/objetos/heranca6.js);
     - [Evitando modificações](/JavaScript/Udemy-WebCompleto/Exercicios-JS/objetos/evitandoModificacoes.js);
+    - [JSON vs Objeto](/JavaScript/Udemy-WebCompleto/Exercicios-JS/objetos/JsonVsObj.js);
 
 &nbsp;
 
