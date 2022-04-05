@@ -69,6 +69,7 @@
     - [Classe #02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/objetos/classe2.js);
   - [Arrays](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Arrays/);
     - [Visão geral](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Arrays/arrays.js);
+    - [Arrays: Alguns métodos](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Arrays/arrayMetodos.js);
 
 &nbsp;
 
