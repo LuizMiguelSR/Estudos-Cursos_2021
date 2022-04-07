@@ -70,6 +70,7 @@
   - [Arrays](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Arrays/);
     - [Visão geral](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Arrays/arrays.js);
     - [Arrays: Alguns métodos](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Arrays/arrayMetodos.js);
+    - [Simulando array com objetos](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Arrays/simulandoArray.js)
 
 &nbsp;
 
