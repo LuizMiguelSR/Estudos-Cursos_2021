@@ -72,6 +72,7 @@
     - [Arrays: Alguns métodos](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Arrays/arrayMetodos.js);
     - [Simulando array com objetos](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Arrays/simulandoArray.js);
     - [Foreach #01](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Arrays/foreach1.js);
+    - [Foreach #02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Arrays/foreach2.js);
 
 &nbsp;
 
