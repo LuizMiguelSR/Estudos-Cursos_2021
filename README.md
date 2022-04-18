@@ -77,6 +77,7 @@
     - [Map #02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Arrays/map2.js);
     - [Map #03](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Arrays/map3.js);
     - [Filter #01](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Arrays/filter1.js);
+    - [Filter #02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Arrays/filter2.js);
 
 &nbsp;
 
