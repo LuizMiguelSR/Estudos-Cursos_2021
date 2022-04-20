@@ -79,6 +79,7 @@
     - [Filter #01](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Arrays/filter1.js);
     - [Filter #02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Arrays/filter2.js);
     - [Reduce #01](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Arrays/reduce1.js);
+    - [Reduce #02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Arrays/reduce2.js);
 
 &nbsp;
 
