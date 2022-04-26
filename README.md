@@ -82,6 +82,7 @@
     - [Reduce #02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Arrays/reduce2.js);
     - [Reduce #03](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Arrays/reduce3.js);
     - [Imperativo Vs Declarativo](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Arrays/imperativoVsDeclarativo.js);
+    - [Concat](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Arrays/concat.js);
 
 &nbsp;
 
