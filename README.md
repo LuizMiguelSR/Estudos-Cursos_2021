@@ -84,6 +84,7 @@
     - [Imperativo Vs Declarativo](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Arrays/imperativoVsDeclarativo.js);
     - [Concat](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Arrays/concat.js);
     - [FlatMap](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Arrays/flatMap.js);
+    - [Exercícios](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Arrays/exercicios/);
 
 &nbsp;
 
