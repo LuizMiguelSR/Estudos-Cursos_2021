@@ -87,6 +87,7 @@
     - [Exercícios](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Arrays/exercicios/);
   - [Node](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/);
     - [Sistemas de módulos](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/);
+    - [Usando módulos de terceiros](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/);
 
 &nbsp;
 
