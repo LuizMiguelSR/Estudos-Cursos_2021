@@ -88,6 +88,7 @@
   - [Node](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/);
     - [Sistemas de módulos](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/);
     - [Usando módulos de terceiros](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/);
+    - [Sistema de módulos: Require](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/pastaA/);
 
 &nbsp;
 
