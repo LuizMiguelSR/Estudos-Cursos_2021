@@ -89,6 +89,7 @@
     - [Sistemas de módulos](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/);
     - [Usando módulos de terceiros](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/);
     - [Sistema de módulos: Require](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/pastaA/);
+    - Sistema de módulos: Export [Exportar](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/exportar.js) e [Exportar cliente](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/exportarCliente.js);
 
 &nbsp;
 
