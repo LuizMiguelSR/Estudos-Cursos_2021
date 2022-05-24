@@ -92,6 +92,7 @@
     - Sistema de módulos: Export [Exportar](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/exportar.js) e [Exportar cliente](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/exportarCliente.js);
     - [Arquivo packpage.json](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/funcionarios/);
     - [Instância única vs Nova instância](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/);
+    - [Objeto global do node](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/);
 
 &nbsp;
 
