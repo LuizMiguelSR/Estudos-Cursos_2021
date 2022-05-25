@@ -93,6 +93,7 @@
     - [Arquivo packpage.json](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/funcionarios/);
     - [Instância única vs Nova instância](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/);
     - [Objeto global do node](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/);
+    - [Entendendo o this](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/this.js);
 
 &nbsp;
 
