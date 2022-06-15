@@ -95,6 +95,7 @@
     - [Objeto global do node](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/);
     - [Entendendo o this](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/this.js);
     - [Passando parâmetros entre módulos](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/);
+    - [Instalando Deps & Scripts](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/);
 
 &nbsp;
 
