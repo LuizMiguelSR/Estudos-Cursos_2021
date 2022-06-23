@@ -6,7 +6,8 @@
 
 - ### **Udemy - 📚 Curso de Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap Webpack Gulp MySQL (Em andamento)**
 
-  - [Fundamentos](/JavaScript/Udemy-WebCompleto/Exercicios-JS/Fundamentos/);
+  <details>
+  <summary> Fundamentos </summary>
     - Bloco;
     - Comentários;
     - Dados;
@@ -21,6 +22,7 @@
     - Hoisting;
     - Strings;
     - Erros;
+  </details>
   - [Estruturas de Controle](/JavaScript/Udemy-WebCompleto/Exercicios-JS/controle/);
     - [If 01](/JavaScript/Udemy-WebCompleto/Exercicios-JS/controle/if1.js) e [If 02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/controle/if2.js);
     - [If/else 01](/JavaScript/Udemy-WebCompleto/Exercicios-JS/controle/ifElse.js) e [If/else 02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/controle/ifElseIf.js);
