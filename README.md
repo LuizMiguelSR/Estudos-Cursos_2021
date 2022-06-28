@@ -120,6 +120,7 @@
   - [Instalando Deps & Scripts](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/);
   - [Lendo Arquivos](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/);
   - [Escrevendo Arquivos](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/);
+  - [Middleware #02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/middlewares.js);
   </details>
 
 &nbsp;
