@@ -122,6 +122,7 @@
   - [Escrevendo Arquivos](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/);
   - [Middleware #02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/middlewares.js);
   - [Projeto API com Express #01](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/projeto/);
+  - [Projeto API com Express #02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/projeto/);
   </details>
 
 &nbsp;
