@@ -124,6 +124,7 @@
   - [Projeto API com Express #01](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/projeto/);
   - [Projeto API com Express #02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/projeto/);
   - [Projeto API com Express #03](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/projeto/);
+  - [Tarefas agendadas com temporizador](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/temporizador.js);
   </details>
 
 &nbsp;
