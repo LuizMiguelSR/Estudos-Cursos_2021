@@ -127,6 +127,12 @@
   - [Tarefas agendadas com temporizador](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/temporizador.js);
   - [Process: Entrada e Saída Padrão](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/entradaESaida.js);
   </details>
+  
+  <details>
+  <summary> ESNext </summary>
+
+  - [Revisão 01](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/entradaESaida.js);
+  </details>
 
 &nbsp;
 
