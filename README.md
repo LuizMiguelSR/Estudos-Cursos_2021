@@ -2,8 +2,6 @@
 
 ## **💻 Cursos de JavaScript**
 
-&nbsp;
-
 - ### **Udemy - 📚 Curso de Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap Webpack Gulp MySQL (Em andamento)**
 
   <details>
@@ -127,7 +125,7 @@
   - [Tarefas agendadas com temporizador](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/temporizador.js);
   - [Process: Entrada e Saída Padrão](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/entradaESaida.js);
   </details>
-  
+
   <details>
   <summary> ESNext </summary>
 
@@ -140,18 +138,25 @@
 
   - [Aulas](/JavaScript/DigitalOne_JavaScript);
 
+&nbsp;
+
 - ### **Digital One - 📚 Curso de EscmaScript 06 (✔Finalizado)**
 
-  - Aulas e práticas;
-    - [Aula 01](/JavaScript//DigitalOneEcmaScript06essencial/Aula01/);
-    - [Aula 02](/JavaScript//DigitalOneEcmaScript06essencial/Aula02/);
-    - [Aula 03](/JavaScript//DigitalOneEcmaScript06essencial/Aula03/);
-    - [Aula 04](/JavaScript//DigitalOneEcmaScript06essencial/Aula04/);
-    - [Aula 05](/JavaScript//DigitalOneEcmaScript06essencial/Aula05/);
-    - [Aula 06](/JavaScript//DigitalOneEcmaScript06essencial/Aula06/);
-    - [Aula 07](/JavaScript//DigitalOneEcmaScript06essencial/Aula07/);
-    - [Aula 08](/JavaScript//DigitalOneEcmaScript06essencial/Aula08/);
-    - [Aula 09](/JavaScript//DigitalOneEcmaScript06essencial/Aula09/);
+  <details>
+  <summary> Aulas e práticas </summary>
+
+  - [Aula 01](/JavaScript//DigitalOneEcmaScript06essencial/Aula01/);
+  - [Aula 02](/JavaScript//DigitalOneEcmaScript06essencial/Aula02/);
+  - [Aula 03](/JavaScript//DigitalOneEcmaScript06essencial/Aula03/);
+  - [Aula 04](/JavaScript//DigitalOneEcmaScript06essencial/Aula04/);
+  - [Aula 05](/JavaScript//DigitalOneEcmaScript06essencial/Aula05/);
+  - [Aula 06](/JavaScript//DigitalOneEcmaScript06essencial/Aula06/);
+  - [Aula 07](/JavaScript//DigitalOneEcmaScript06essencial/Aula07/);
+  - [Aula 08](/JavaScript//DigitalOneEcmaScript06essencial/Aula08/);
+  - [Aula 09](/JavaScript//DigitalOneEcmaScript06essencial/Aula09/);
+  </details>
+
+&nbsp;
 
 - ### **CFBCursos - 📚 Curso de JavaScript (✔Finalizado)**
 
@@ -160,8 +165,6 @@
 &nbsp;
 
 ## **💻 Cursos de Java**
-
-&nbsp;
 
 - ### **Curso em Vídeo - 📚 Curso de Java e JavaFX (✔Finalizado)**
 
