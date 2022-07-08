@@ -129,7 +129,7 @@
   <details>
   <summary> ESNext </summary>
 
-  - [Revisão 01](/JavaScript/Udemy-WebCompleto/Exercicios-JS/node/entradaESaida.js);
+  - [Revisão 01](/JavaScript/Udemy-WebCompleto/Exercicios-JS/esnext/revisao1.js);
   </details>
 
 &nbsp;
