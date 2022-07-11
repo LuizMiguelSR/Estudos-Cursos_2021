@@ -1,5 +1,7 @@
 # 📚 Cursos iniciados em 2021 📚
 
+Repositório destinado a exercícios e exemplos dos cursos, relacionados a programação, que foram realizados ao longo do ano de 2021.
+
 ## **💻 Cursos de JavaScript**
 
 - ### **Udemy - 📚 Curso de Javascript, Angular, React, Vue, Node, HTML, CSS, jQuery, Bootstrap Webpack Gulp MySQL (Em andamento)**
@@ -130,6 +132,7 @@
   <summary> ESNext </summary>
 
   - [Revisão 01](/JavaScript/Udemy-WebCompleto/Exercicios-JS/esnext/revisao1.js);
+  - [Revisão 02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/esnext/revisao2.js);
   </details>
 
 &nbsp;
