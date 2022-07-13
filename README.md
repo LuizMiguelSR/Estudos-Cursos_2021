@@ -134,6 +134,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Revisão 01](/JavaScript/Udemy-WebCompleto/Exercicios-JS/esnext/revisao1.js);
   - [Revisão 02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/esnext/revisao2.js);
   - [Revisão 03](/JavaScript/Udemy-WebCompleto/Exercicios-JS/esnext/revisao3.js);
+  - [Operador Rest/Spread](/JavaScript/Udemy-WebCompleto/Exercicios-JS/esnext/operadorRestSpread.js);
   </details>
 
 &nbsp;
