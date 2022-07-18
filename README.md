@@ -137,6 +137,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Operador Rest/Spread](/JavaScript/Udemy-WebCompleto/Exercicios-JS/esnext/operadorRestSpread.js);
   - [Tagged Template #01](/JavaScript/Udemy-WebCompleto/Exercicios-JS/esnext/taggedTemplate1.js);
   - [Tagged Template #02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/esnext/taggedTemplate2.js);
+  - [Map](/JavaScript/Udemy-WebCompleto/Exercicios-JS/esnext/map.js);
   </details>
 
 &nbsp;
