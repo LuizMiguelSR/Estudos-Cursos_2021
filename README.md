@@ -140,6 +140,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Map](/JavaScript/Udemy-WebCompleto/Exercicios-JS/esnext/map.js);
   - [Set](/JavaScript/Udemy-WebCompleto/Exercicios-JS/esnext/set.js);
   - [For Of](/JavaScript/Udemy-WebCompleto/Exercicios-JS/esnext/forOf.js);
+  - [Promisses](/JavaScript/Udemy-WebCompleto/Exercicios-JS/esnext/promisses.js);
   </details>
 
 &nbsp;
