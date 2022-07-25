@@ -1,4 +1,4 @@
-// sem Promisse
+// sem Promise
 const http = require('http')
 
 const getTurma = (letra, callback) => {

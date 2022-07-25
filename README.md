@@ -142,6 +142,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [For Of](/JavaScript/Udemy-WebCompleto/Exercicios-JS/esnext/forOf.js);
   - [Promisses](/JavaScript/Udemy-WebCompleto/Exercicios-JS/esnext/promisses.js);
   - [Callbacks aninhadas](/JavaScript/Udemy-WebCompleto/Exercicios-JS/esnext/usandoCallback.js);
+  - [Refatorando Callbacks para Promises](/JavaScript/Udemy-WebCompleto/Exercicios-JS/esnext/usandoPrmises.js);
   </details>
 
 &nbsp;
