@@ -145,6 +145,11 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Refatorando Callbacks para Promises](/JavaScript/Udemy-WebCompleto/Exercicios-JS/esnext/usandoPrmises.js);
   - [Async/Await](/JavaScript/Udemy-WebCompleto/Exercicios-JS/esnext/asyncAwait.js);
   - [Promise #01](/JavaScript/Udemy-WebCompleto/Exercicios-JS/esnext/promise1.js);
+  - [Promise #02:](/JavaScript/Udemy-WebCompleto/Exercicios-JS/esnext/promise2.js)
+    - [Callback Hell](https://github.com/LuizMiguelSR/Cursos_2021/commit/078e0660f7994749ca06acdeb754e442beab34ea);
+    - [Usando Promise](https://github.com/LuizMiguelSR/Cursos_2021/commit/1cae992028dd2e9a603b38d20963c888581f3b83);
+    - [Executando Promises aninhadas](https://github.com/LuizMiguelSR/Cursos_2021/commit/9693e7c931d4d68affd4bcbdec133580942a9300);
+  </details>
 
 &nbsp;
 
