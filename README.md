@@ -151,6 +151,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
     - [Executando Promises aninhadas](https://github.com/LuizMiguelSR/Cursos_2021/commit/9693e7c931d4d68affd4bcbdec133580942a9300);
   - [Promise #03](/JavaScript/Udemy-WebCompleto/Exercicios-JS/esnext/promise3.js);
   - [Promise #04](/JavaScript/Udemy-WebCompleto/Exercicios-JS/esnext/promise4.js);
+  - [Promise #05](/JavaScript/Udemy-WebCompleto/Exercicios-JS/esnext/promise5.js);
   </details>
 
 &nbsp;
