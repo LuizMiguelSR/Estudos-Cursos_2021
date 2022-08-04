@@ -152,9 +152,10 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Promise #03](/JavaScript/Udemy-WebCompleto/Exercicios-JS/esnext/promise3.js);
   - [Promise #04](/JavaScript/Udemy-WebCompleto/Exercicios-JS/esnext/promise4.js);
   - [Promise #05](/JavaScript/Udemy-WebCompleto/Exercicios-JS/esnext/promise5.js);
-  - Async/Await #02:
+  - Async/Await #01:
     - [Utilizando Promise](https://github.com/LuizMiguelSR/Cursos_2021/commit/a6af24e4f1b437bdf54062a74544019fa649aede);
     - [Utilizando Async/Await](https://github.com/LuizMiguelSR/Cursos_2021/commit/dd2a427e8dd1881568b91649553f13c082d29af9);
+  - [Async/Await #02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/esnext/asyncAwait2.js);
   </details>
 
 &nbsp;
