@@ -158,6 +158,12 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Async/Await #02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/esnext/asyncAwait2.js);
   </details>
 
+  <details>
+  <summary> Conceitos sobre Web </summary>
+
+  - [Introdução à Web](https://drive.google.com/file/d/1CDEWP1w92_7zOZGzQakmllJN6YxKEpke/edit?disco=AAAAcH0HUuY)
+  </details>
+
 &nbsp;
 
 - ### **Digital One - 📚 JavaScript Básico (✔Finalizado)**
