@@ -161,7 +161,13 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   <details>
   <summary> Conceitos sobre Web </summary>
 
-  - [Introdução à Web](https://drive.google.com/file/d/1CDEWP1w92_7zOZGzQakmllJN6YxKEpke/edit?disco=AAAAcH0HUuY)
+  - [Introdução à Web](https://drive.google.com/file/d/1CDEWP1w92_7zOZGzQakmllJN6YxKEpke/edit?disco=AAAAcH0HUuY);
+  </details>
+
+  <details>
+  <summary> HTML 5 </summary>
+
+  - [Anatomia da Tag](JavaScript/Udemy-WebCompleto/Exercicios-JS/html/anatomiaTag.html);
   </details>
 
 &nbsp;
