@@ -168,6 +168,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   <summary> HTML 5 </summary>
 
   - [Anatomia da Tag](JavaScript/Udemy-WebCompleto/Exercicios-JS/html/anatomiaTag.html);
+  - [Anatomia de uma página HTML](JavaScript/Udemy-WebCompleto/Exercicios-JS/html/anatomiaHtml.html);
   </details>
 
 &nbsp;
