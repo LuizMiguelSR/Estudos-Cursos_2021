@@ -169,6 +169,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
 
   - [Anatomia da Tag](JavaScript/Udemy-WebCompleto/Exercicios-JS/html/anatomiaTag.html);
   - [Anatomia de uma página HTML](JavaScript/Udemy-WebCompleto/Exercicios-JS/html/anatomiaHtml.html);
+  - [Um pouco de CSS](JavaScript/Udemy-WebCompleto/Exercicios-JS/html/poucoDeCSS.html);
   </details>
 
 &nbsp;
