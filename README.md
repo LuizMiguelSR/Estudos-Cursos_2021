@@ -172,6 +172,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Um pouco de CSS](JavaScript/Udemy-WebCompleto/Exercicios-JS/html/poucoDeCSS.html);
   - [Estruturando os exercícios](JavaScript/Udemy-WebCompleto/Exercicios-JS/html/index.html);
   - [Texto puro vs Browser](JavaScript/Udemy-WebCompleto/Exercicios-JS/html/textoPuro.html);
+  - [Tag para texto #01](JavaScript/Udemy-WebCompleto/Exercicios-JS/html/index.html.html);
   </details>
 
 &nbsp;
