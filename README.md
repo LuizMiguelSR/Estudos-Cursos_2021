@@ -174,6 +174,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Texto puro vs Browser](JavaScript/Udemy-WebCompleto/Exercicios-JS/html/textoPuro.html);
   - [Tag para texto #01](JavaScript/Udemy-WebCompleto/Exercicios-JS/html/exercicios/texto1.html);
   - [Tag para texto #02](JavaScript/Udemy-WebCompleto/Exercicios-JS/html/exercicios/texto2.html);
+  - [Listas](JavaScript/Udemy-WebCompleto/Exercicios-JS/html/exercicios/listas.html);
   </details>
 
 &nbsp;
