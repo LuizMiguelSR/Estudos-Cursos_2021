@@ -176,6 +176,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Tag para texto #02](JavaScript/Udemy-WebCompleto/Exercicios-JS/html/exercicios/texto2.html);
   - [Listas](JavaScript/Udemy-WebCompleto/Exercicios-JS/html/exercicios/listas.html);
   - [Listas aninhadas](JavaScript/Udemy-WebCompleto/Exercicios-JS/html/exercicios/listasAninhada.html);
+  - [Listas aninhadas (Desafio)](JavaScript/Udemy-WebCompleto/Exercicios-JS/html/exercicios/listasAninhada.html);
   </details>
 
 &nbsp;
