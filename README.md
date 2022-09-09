@@ -179,6 +179,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Listas aninhadas (Desafio)](JavaScript/Udemy-WebCompleto/Exercicios-JS/html/exercicios/listasAninhada.html);
   - [Links #01](JavaScript/Udemy-WebCompleto/Exercicios-JS/html/exercicios/links.html);
   - [Links #02](JavaScript/Udemy-WebCompleto/Exercicios-JS/html/exercicios/links.html);
+  - [Tabelas](JavaScript/Udemy-WebCompleto/Exercicios-JS/html/exercicios/tabela.html);
   </details>
 
 &nbsp;
