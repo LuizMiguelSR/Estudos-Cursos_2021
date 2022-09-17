@@ -184,6 +184,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Formulário #02](https://github.com/LuizMiguelSR/Cursos_2021/commit/24c493755f7476f6e7a9f5a9d6c7d64287672071);
   - [Formulário #03](https://github.com/LuizMiguelSR/Cursos_2021/commit/4f60e2aafd32054aa33d86e36d8bf857ff5b89ff);
   - [Imagens](JavaScript/Udemy-WebCompleto/Exercicios-JS/html/exercicios/imagens.html);
+  - [Desafio Slider #01](https://github.com/LuizMiguelSR/Cursos_2021/commit/baf166ed79055e88cd9a382f847079045a6bf6f5);
   </details>
 
 &nbsp;
