@@ -188,6 +188,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Desafio Slider #02](https://github.com/LuizMiguelSR/Cursos_2021/commit/d7ff40c382c8fc9e43a6e9a535a49549f6b7e1b0);
   - [Vídeo](https://github.com/LuizMiguelSR/Cursos_2021/commit/c3a14800faca952c2df0dce843a387533dd08fd1);
   - [Desafio controlar Vídeo](https://github.com/LuizMiguelSR/Cursos_2021/commit/e0ed72cd079636ba771caad56f976832b3e28d4a);
+  - [Tags não visuais](https://github.com/LuizMiguelSR/Cursos_2021/commit/ef474760c2208bdee16dc5798853c1c03af4d992);
   </details>
 
 &nbsp;
