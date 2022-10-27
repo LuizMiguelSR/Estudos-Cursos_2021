@@ -191,6 +191,11 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Tags não visuais](https://github.com/LuizMiguelSR/Cursos_2021/commit/ef474760c2208bdee16dc5798853c1c03af4d992);
   </details>
 
+  <details>
+  <summary> CSS 3 </summary>
+
+  - [Criando a classe .tag](https://github.com/LuizMiguelSR/Cursos_2021/commit/3b4d8199d089dd8a014599d4486b50d11b4d8477);
+  </details>
 &nbsp;
 
 - ### **Digital One - 📚 JavaScript Básico (✔Finalizado)**
