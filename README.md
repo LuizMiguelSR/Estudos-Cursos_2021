@@ -195,6 +195,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   <summary> CSS 3 </summary>
 
   - [Criando a classe .tag](https://github.com/LuizMiguelSR/Cursos_2021/commit/3b4d8199d089dd8a014599d4486b50d11b4d8477);
+  - [Seletores CSS #02](https://github.com/LuizMiguelSR/Cursos_2021/commit/83d1cd2ac5015c77645a8058a42eda0143d4804c);
   </details>
 &nbsp;
 
