@@ -198,7 +198,9 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Seletores CSS #02](https://github.com/LuizMiguelSR/Cursos_2021/commit/83d1cd2ac5015c77645a8058a42eda0143d4804c);
   - [Especificidades CSS #01](/JavaScript/Udemy-WebCompleto/Exercicios-JS/css/especificidade1.html);
   - [Especificidades CSS #02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/css/especificidade2.html);
+  - [Herança](/JavaScript/Udemy-WebCompleto/Exercicios-JS/css/heranca.html);
   </details>
+  
 &nbsp;
 
 - ### **Digital One - 📚 JavaScript Básico (✔Finalizado)**
