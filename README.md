@@ -200,6 +200,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Especificidades CSS #02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/css/especificidade2.html);
   - [Herança](/JavaScript/Udemy-WebCompleto/Exercicios-JS/css/heranca.html);
   - [Box Model #01](/JavaScript/Udemy-WebCompleto/Exercicios-JS/css/heranca.html);
+  - [Box Model #02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/css/box.html);
   </details>
   
 &nbsp;
