@@ -202,6 +202,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Box Model #01](/JavaScript/Udemy-WebCompleto/Exercicios-JS/css/heranca.html);
   - [Box Model #02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/css/box.html);
   - [Margin Collapse](/JavaScript/Udemy-WebCompleto/Exercicios-JS/css/margin.html);
+  - [Propriedade Display](/JavaScript/Udemy-WebCompleto/Exercicios-JS/css/display.html);
   </details>
   
 &nbsp;
