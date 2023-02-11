@@ -203,6 +203,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Box Model #02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/css/box.html);
   - [Margin Collapse](/JavaScript/Udemy-WebCompleto/Exercicios-JS/css/margin.html);
   - [Propriedade Display](/JavaScript/Udemy-WebCompleto/Exercicios-JS/css/display.html);
+  - [Inline-block: Comportamento Estranho](/JavaScript/Udemy-WebCompleto/Exercicios-JS/css/index.html);
   </details>
   
 &nbsp;
