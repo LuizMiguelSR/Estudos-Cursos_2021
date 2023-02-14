@@ -205,6 +205,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Propriedade Display](/JavaScript/Udemy-WebCompleto/Exercicios-JS/css/display.html);
   - [Inline-block: Comportamento Estranho](/JavaScript/Udemy-WebCompleto/Exercicios-JS/css/index.html);
   - [Altura & Largura](/JavaScript/Udemy-WebCompleto/Exercicios-JS/css/alturaLargura.html);
+  - [Box Sizing](/JavaScript/Udemy-WebCompleto/Exercicios-JS/css/tamanhoBox.html);
   </details>
   
 &nbsp;
