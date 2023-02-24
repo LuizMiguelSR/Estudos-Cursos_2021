@@ -207,6 +207,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Altura & Largura](/JavaScript/Udemy-WebCompleto/Exercicios-JS/css/alturaLargura.html);
   - [Box Sizing](/JavaScript/Udemy-WebCompleto/Exercicios-JS/css/tamanhoBox.html);
   - [Propriedade Overflow](/JavaScript/Udemy-WebCompleto/Exercicios-JS/css/overflow.html);
+  - [Propriedade Float](/JavaScript/Udemy-WebCompleto/Exercicios-JS/css/float.html);
   </details>
   
 &nbsp;
