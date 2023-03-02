@@ -209,6 +209,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Propriedade Overflow](/JavaScript/Udemy-WebCompleto/Exercicios-JS/css/overflow.html);
   - [Propriedade Float](/JavaScript/Udemy-WebCompleto/Exercicios-JS/css/float.html);
   - [Cores](/JavaScript/Udemy-WebCompleto/Exercicios-JS/css/cores.html);
+  - [Unidades #02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/css/unidades1.html);
   </details>
   
 &nbsp;
