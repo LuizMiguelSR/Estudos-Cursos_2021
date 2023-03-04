@@ -211,6 +211,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Cores](/JavaScript/Udemy-WebCompleto/Exercicios-JS/css/cores.html);
   - [Unidades #02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/css/unidades1.html);
   - [Unidades #03](/JavaScript/Udemy-WebCompleto/Exercicios-JS/css/unidades2.html);
+  - [Texto](/JavaScript/Udemy-WebCompleto/Exercicios-JS/css/texto.html);
   </details>
   
 &nbsp;
