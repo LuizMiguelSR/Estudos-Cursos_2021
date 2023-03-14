@@ -216,6 +216,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Media Query](/JavaScript/Udemy-WebCompleto/Exercicios-JS/css/mediaQuery.html);
   - [Desafio Menu #01](/JavaScript/Udemy-WebCompleto/Exercicios-JS/css/desafioMenu.html);
   - [Desafio Menu #02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/css/desafioMenu.html);
+  - [Desafio Card #02](/JavaScript/Udemy-WebCompleto/Exercicios-JS/css/desafioCard.html);
   </details>
   
 &nbsp;
